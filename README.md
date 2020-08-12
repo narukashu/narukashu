@@ -36,12 +36,12 @@
 
 <img align="left" alt="narukashu Github Stats" src="https://github-readme-stats.vercel.app/api?username=narukashu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
-[website]: www.linkedin.com/in/shubham-naruka-3652031a4
+[website]: https://www.linkedin.com/in/shubham-naruka-3652031a4/
 [twitter]: https://twitter.com/narukashu
 [youtube]: https://www.youtube.com/channel/UCkxq0uDYSY-amflre4tckuQ
 [instagram]: https://www.instagram.com/kuwarshubhamnaruka
-[linkedin]: www.linkedin.com/in/shubham-naruka-3652031a4
-[webdevplaylist]:www.linkedin.com/in/shubham-naruka-3652031a4
-[jsplaylist]: www.linkedin.com/in/shubham-naruka-3652031a4
-[cssplaylist]:www.linkedin.com/in/shubham-naruka-3652031a4
-[reactplaylist]: www.linkedin.com/in/shubham-naruka-3652031a4
+[linkedin]: https://www.linkedin.com/in/shubham-naruka-3652031a4/
+[webdevplaylist]:https://www.linkedin.com/in/shubham-naruka-3652031a4/
+[jsplaylist]: https://www.linkedin.com/in/shubham-naruka-3652031a4/
+[cssplaylist]:https://www.linkedin.com/in/shubham-naruka-3652031a4/
+[reactplaylist]: https://www.linkedin.com/in/shubham-naruka-3652031a4/
