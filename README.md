@@ -31,7 +31,9 @@
 <br />
 
 ---
-
+<a href="https://github.com/narukashu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narukashu&theme=light&hide_langs_below=1" />
+</a>
 ---
 
 <img align="left" alt="narukashu Github Stats" src="https://github-readme-stats.vercel.app/api?username=narukashu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
