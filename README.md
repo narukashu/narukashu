@@ -1,11 +1,11 @@
 ### Hi there, I'm Shubham Naruka - aka [Himanshu][linkedin] 👋
 
 ## I'm a Student,  Developer, and a Learner!
-- 🔭 I’m currently working on a [Android Development][website]!
+- 🔭 I’m currently working on [Android Development][website]!
 - 🌱 I’m currently learning Android Development
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to code and watching series / movies
+- ⚡ Fun fact: I love to code and watching webseries / movies
 
 ### Connect with me:
 
